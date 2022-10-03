@@ -1,0 +1,12 @@
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\bin\Debug\Aim Trainer.exe.config
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\bin\Debug\Aim Trainer.exe
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\bin\Debug\Aim Trainer.pdb
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim Trainer.csproj.AssemblyReference.cache
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim_Trainer.Properties.Resources.resources
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim_Trainer.Resource1.resources
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim Trainer.csproj.GenerateResource.cache
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim Trainer.csproj.CoreCompileInputs.cache
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim Trainer.exe
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim Trainer.pdb
+C:\Users\eldar\source\repos\Aim Trainer\Aim Trainer\obj\Debug\Aim_Trainer.Form1.resources

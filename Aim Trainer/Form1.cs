@@ -16,13 +16,13 @@ namespace Aim_Trainer
 
     public partial class Form1 : Form
     {
+        public Random rand = new Random();
         private void TrueSound()
         {
             SoundPlayer simpleSound = new SoundPlayer(@"C:\Users\eldar\source\repos\Aim Trainer\sound\hit.wav"); //Звук попадания
             simpleSound.Play();
         }
         int _score = 0;
-        public Random rand = new Random();
         public Form1()
         {
             InitializeComponent();
@@ -36,21 +36,10 @@ namespace Aim_Trainer
             TrueSound();
 
         }
-
-
-        private void Form1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
         private void AddScore(int a)
         {
             _score += a;
             score.Text = Convert.ToString("Score:" + _score);
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void Form1_Click(object sender, EventArgs e)
